@@ -17,7 +17,7 @@ https://chat.whatsapp.com/L4iSBfleMKqKd1G10f7IIc
 
 Instagram : https://www.instagram.com/shubham_g0sain/?hl=en
 
-Github.   : https://github.com/shubhamggosai
+Github.   : https://github.com/ShuBhamg0sain
 
 Facebook  : https://m.facebook.com/shubham.gosain.980
 
