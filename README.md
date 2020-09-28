@@ -1,5 +1,9 @@
 # phone-number-tracker
 
+## screenshot
+![ ](https://raw.githubusercontent.com/ShuBhamg0sain/phone-number-tracker/master/IMG_20200928_082629.jpg)
+
+
 ### FIND...ME.
 
 
@@ -23,3 +27,23 @@ Facebook  : https://m.facebook.com/shubham.gosain.980
 
 Telegram :
 https://t.me/ShuBham_g0sain
+
+## Installation
+
+apt update
+
+apt upgrade
+
+apt install python
+
+apt install python2
+
+git clone https://GitHub.com/ShuBhamg0sain/phone-number-tracker
+
+cd phone-number-tracker
+
+Python2 tracker.py
+
+## how to used
+python2 tracker.py number
+
