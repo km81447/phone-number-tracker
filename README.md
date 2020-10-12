@@ -1,7 +1,7 @@
 # phone-number-tracker
 
 ## screenshot
-![ ](https://raw.githubusercontent.com/ShuBhamg0sain/phone-number-tracker/master/IMG_20200928_082629.jpg)
+![ ](https://raw.githubusercontent.com/ShuBhamg0sain/phone-number-tracker/master/Screenshot_20201012_071932.jpg)
 
 
 
